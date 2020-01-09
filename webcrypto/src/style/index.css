@@ -1,0 +1,21 @@
+ body, h1, h2, h3, h4, h5, h6, hr, p, dl, dt, dd, ul, ol, li, form, fieldset, input, label,textarea{margin:0;padding:0;}
+html,body{height:100%;font:14px/1.5 "Microsoft YaHei",Microsoft YaHei,"Helvetica Neue",HelveticaNeue,"Helvetica-Neue",Helvetica,"BBAlpha Sans",sans-serif;color:#4A4A4A;min-width:320px;background:#F0F2F5;/*-webkit-text-size-adjust:none;*/-webkit-tap-highlight-color:transparent;-moz-tap-highlight-color:transparent;-ms-tap-highlight-color:transparent;
+-o-tap-highlight-color:transparent;outline:0;font-family: 'PingFang SC'} 
+html{-webkit-text-size-adjust:none;overflow:visible!important;}
+section,article,aside,header,footer,nav,dialog,figure{display:block;}
+h1, h2, h3, h4, h5, h6{font-weight: normal; /* font-size: 1em; */}
+a{text-decoration: none;color:#4A4A4A;outline: none;}
+input{outline: none;border: 0; font-size: 14px;}
+ul,li{list-style:none;}
+ul{font-size: 0;}
+.col_fff{background: #fff;}
+.w28{width: 28%;}
+.w30{width: 30%;}
+.w33{width: 33%;}
+.w70{width: 67%;}
+.w100{width: 100%;}
+.center{text-align: center;}
+.link{display: inline-block;}
+.fr{float: right;}
+.div_swi_top{margin-top: .88rem;}
+.overhidden{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}

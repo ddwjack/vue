@@ -1,0 +1,72 @@
+@charset "utf-8";
+body, h1, h2, h3, h4, h5, h6, hr, p, dl, dt, dd, ul, ol, li, form, fieldset, input, label,textarea{margin:0;padding:0;}
+html,body{height:100%;font:14px/1.5 "Microsoft YaHei",Microsoft YaHei,"Helvetica Neue",HelveticaNeue,"Helvetica-Neue",Helvetica,"BBAlpha Sans",sans-serif;color:#4A4A4A;min-width:320px;background:#fff;/*-webkit-text-size-adjust:none;*/-webkit-tap-highlight-color:transparent;-moz-tap-highlight-color:transparent;-ms-tap-highlight-color:transparent;
+-o-tap-highlight-color:transparent;outline:0;} 
+html{-webkit-text-size-adjust:none;overflow:visible!important;}
+section,article,aside,header,footer,nav,dialog,figure{display:block;}
+h1, h2, h3, h4, h5, h6{font-weight: normal; /* font-size: 1em; */}
+a{text-decoration: none;color:#4A4A4A;outline: none;}
+input{outline: none;border: 0; font-size: 14px;}
+ul,li{list-style:none;}
+ul{font-size: 0;}
+.page{position: relative;}
+.fl{float:left;}
+.fr{float: right;}
+.link{display: inline-block;vertical-align: top;}
+.mb5{margin-bottom: 5px;}
+/*.mb8{margin-bottom: 6px;}*/
+.mb10{margin-bottom: 10px;}
+.mb15{margin-bottom: 15px;}
+.mb20{margin-bottom: 20px;}
+.mb25{margin-bottom: 25px;}
+.mb30{margin-bottom: 30px;}
+.mb35{margin-bottom: 35px;}
+.mb40{margin-bottom: 40px;}
+.mb60{margin-bottom: 60px;}
+.mt8{ margin-top: 8px;}
+.mt10{ margin-top: 10px;}
+.mt15{ margin-top: 15px;}
+.mr10{ margin-right: 10px;}
+.mr20{ margin-right: 20px;}
+.mr25{ margin-right: 25px;}
+.pad16{padding:0 16px;}
+.pt5{padding-top: 5px;}
+.pt10{padding-top: 10px;}
+.pt15{padding-top: 15px;}
+.pt25{padding-top: 25px;}
+.pt32{padding-top: 32px;}
+.pt45{padding-top: 45px;}
+.pt85{padding-top: 85px;}
+.pt90{padding-top: 90px;}
+.pb15{ padding-bottom: 15px;}
+.fontblue{ color: #ff7463;}
+.fontred{ color: #ff5024;font-size:16px;}
+
+.fontgreen{ color: #36c336;}
+.font75{font-size: 0.75rem;}
+/* .font10{font-size: 10px;}
+.font14{font-size: 14px;}
+.font12{font-size: 12px;}
+.font16{font-size: 16px;}
+.font18{font-size: 18px;} */
+.gray{color: #999;}
+.font6{color: #666;}
+.center{text-align: center;}
+.right{text-align: right;}
+.w10{width: 10%;}
+.w19{width: 19%;}
+.w22{width: 22%;}
+.w24{width: 24%;}
+.w25{width: 25%;}
+.w33{width: 33.3333%;}
+.w38{width: 38%;}
+.w40{width: 40%;}
+.w50{width: 50%;}
+.w70{width: 70%;}
+.w75{width: 75%;}
+.w78{width: 78%;}
+.w80{width: 80%;}
+.w94{ width: 94%; padding: 0 3%;}
+.w100{width: 100%;}
+.diflex{display: flex;}
+.whitebg{background: #fff;}
